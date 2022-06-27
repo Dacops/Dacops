@@ -1,5 +1,3 @@
-![Metrics](https://metrics.lecoq.io/Dacops)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dacops&&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+![Metrics](https://metrics.lecoq.io/Dacops?template=classic&languages=1&achievements=1&base.indepth=false&base.hireable=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Europe%2FLisbon)
 
 [![Header](https://www.codewars.com/users/Dacops/badges/large "Header")](https://www.codewars.com/)
