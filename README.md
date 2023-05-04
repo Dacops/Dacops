@@ -1,5 +1,5 @@
 Generated with https://github.com/marketplace/actions/metrics-embed
 
-![Base](/github-metrics.svg)
+![Base](/source/github-metrics.svg)
 
-![Achievements](/metrics.plugin.achievements.detailed.svg)
+![Achievements](/source/metrics.plugin.achievements.detailed.svg)
