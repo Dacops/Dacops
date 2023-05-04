@@ -1,3 +1,4 @@
 Generated with https://github.com/marketplace/actions/metrics-embed
 
-![Metrics](/github-metrics.svg)
+![Base](/github-metrics.svg)
+![Achievements)(/metrics.plugin.achievements.detailed.svg)
